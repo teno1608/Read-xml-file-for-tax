@@ -34,4 +34,6 @@ file_object = open('HoaDon_0106053900__0002867.xml', encoding= 'utf-8-sig')
 data3 = file_object.read(data1+6)
 data4 = file_object.read(data2-data1-6)
 print(data4, '\n')
+
+
 print(type(data4), '\n')
