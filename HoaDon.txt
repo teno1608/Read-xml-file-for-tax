@@ -1,1 +1,0 @@
-<HDon><DLHDon Id="SigningData-dab1c46511944e4bbfcfe4bfcc8d32b3"><TTChung><PBan>2.0.0</PBan><THDon>Hóa đơn giá trị gia tăng</THDon><KHMSHDon>1</KHMSHDon><KHHDon>C22TSS</KHHDon><SHDon>2867</SHDon><MHSo /><NLap>2022-06-27</NLap><SBKe /><NBKe />
